@@ -15,3 +15,4 @@ function draw(event) {
     ctx.fill()
     
 }
+
